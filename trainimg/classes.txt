@@ -1,6 +1,0 @@
-crouch
-eat
-lie
-lie_with_stomach
-sit
-stand
