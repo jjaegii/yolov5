@@ -1,6 +1,0 @@
-train: /home/jjaegii/yolov5/trainimg
-val: /home/jjaegii/yolov5/trainimg
-test: /home/jjaegii/yolov5/testimg
-
-nc: 6
-names: ["crouch", "eat", "lie", "lie_with_stomach", "sit", "stand"]

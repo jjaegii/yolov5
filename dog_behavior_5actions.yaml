@@ -1,0 +1,17 @@
+train: /home/jjaegii/dataSSD/yolo/yolov5/dog_behavior_dataset/top_five/train
+val: /home/jjaegii/dataSSD/yolo/yolov5/dog_behavior_dataset/top_five/val
+
+nc: 10
+names:
+  [
+    "sit",
+    "stand",
+    "eat",
+    "lick",
+    "smell",
+    "bark",
+    "turn",
+    "drink",
+    "walk",
+    "lie",
+  ]
